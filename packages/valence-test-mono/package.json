@@ -1,7 +1,7 @@
 {
   "name": "valence-test-mono",
   "private": false,
-  "version": "0.0.2",
+  "version": "0.0.3",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -9,8 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@react-valence/footer": "^0.0.2",
-    "@react-valence/header": "^0.0.2",
+    "@react-valence/footer": "^0.0.3",
+    "@react-valence/header": "^0.0.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
