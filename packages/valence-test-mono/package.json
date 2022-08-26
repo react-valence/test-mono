@@ -1,5 +1,5 @@
 {
-  "name": "remix",
+  "name": "valence-test-mono",
   "private": false,
   "version": "0.0.2",
   "type": "module",
@@ -31,5 +31,5 @@
       }
     }
   },
-  "gitHead": "9e49a76e8a0bc88c4a30916b19051e3abfe3afa4"
+  "gitHead": "503f4747597a07bcdf31c6e4f419e2257cf16b13"
 }
